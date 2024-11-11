@@ -1,5 +1,6 @@
 # Ex09 Event Registration Web Application
-## Date:
+### NAME : V RAKSHA DHARANIKA
+### REG NO : 212223230167
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
