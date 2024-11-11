@@ -365,6 +365,7 @@ body {
 </html>
 
 ```
+### CSS CODE:
 ```
 * {
   box-sizing: border-box;
